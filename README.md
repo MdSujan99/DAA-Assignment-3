@@ -28,3 +28,5 @@
 5. What did you learn from this assignment
     Even though as of now the problem is not solved completely, there is a null pointer exception error, I understood the algorithm more thorougly than from the theory itself. 
     Another thing I learned was finding the error using the breakpoints and debugger in eclipse.
+
+https://www.youtube.com/watch?v=wYALykLb5oY&t=91s
